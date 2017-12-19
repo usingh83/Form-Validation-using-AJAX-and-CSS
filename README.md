@@ -4,7 +4,7 @@ Form validation is a way for you to tell the user what kind of input is required
 
 Requirements
 
-The code files for form validation are validate.html, validate.css and validate.js. You will only modify validate.js.
+The code files for form validation are validate.html, validate.css and validate.js. 
 
 The validations are as follows:
 •	The username field must contain only alphabetical or numeric characters.
